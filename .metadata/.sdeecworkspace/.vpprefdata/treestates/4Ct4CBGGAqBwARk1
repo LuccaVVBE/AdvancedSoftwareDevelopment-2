@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="qwt4CBGGAqBwARW3" projectPath="C:\Users\lucca\Documents\Hogent\2S2\ASD2\GameEngine\vpproject\GameEngine.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<SelectedPath>ClassDiagram,4dT4CBGGAqBwARpz</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0">
+		<ExpandedPath>ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,ClassBrowser</ExpandedPath>
+	</TreeState>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>
+</ProjectTreeState>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;domein.NullIteraotr.java&apos; to &apos;NullIterator.java&apos;&#x0D;&#x0A;- Original project: &apos;ASDII_FoldersEnFilesStarter&apos;&#x0D;&#x0A;- Original element: &apos;domein.NullIteraotr.java&apos;&#x0D;&#x0A;- Renamed element: &apos;domein.NullIterator.java&apos;" description="Rename compilation unit &apos;NullIteraotr.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;domein{NullIteraotr.java" name="NullIterator.java" references="false" stamp="1683894033340" version="1.0"/>
+</session>

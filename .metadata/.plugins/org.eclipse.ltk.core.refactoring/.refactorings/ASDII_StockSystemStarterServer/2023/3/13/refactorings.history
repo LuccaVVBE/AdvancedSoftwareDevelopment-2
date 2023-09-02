@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract interface &apos;domein.RemoteStockService&apos; from &apos;domein.StockServiceController&apos;&#x0D;&#x0A;- Original project: &apos;ASDII_StockSystemStarterServer&apos;&#x0D;&#x0A;- Original element: &apos;domein.StockServiceController&apos;&#x0D;&#x0A;- Extracted interface: &apos;domein.RemoteStockService&apos;&#x0D;&#x0A;- Extracted members:&#x0D;&#x0A;     domein.StockServiceController.performActions(...)&#x0D;&#x0A;- Use super type where possible" comments="true" description="Extract interface &apos;RemoteStockService&apos;" element1="/src&lt;domein{StockServiceController.java[StockServiceController~performActions~\[QString;" flags="589830" id="org.eclipse.jdt.ui.extract.interface" input="/src&lt;domein{StockServiceController.java[StockServiceController" instanceof="false" name="RemoteStockService" replace="true" stamp="1680272010403" version="1.0"/>
+</session>

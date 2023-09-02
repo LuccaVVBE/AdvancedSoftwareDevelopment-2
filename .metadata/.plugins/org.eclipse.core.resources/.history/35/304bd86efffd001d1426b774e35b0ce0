@@ -1,0 +1,18 @@
+package domein;
+
+import java.util.Collection;
+import java.util.List;
+import java.util.concurrent.Callable;
+
+public abstract class Job implements Callable<List<Integer>>{
+	
+	public abstract String execute();
+	
+	@Override
+	public List<Integer> call() {
+		
+		
+		return execute();
+	}
+	
+}
